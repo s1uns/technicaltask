@@ -1,0 +1,6 @@
+@todos_technical_backend_HostAddress = http://localhost:5205
+
+GET {{todos_technical_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

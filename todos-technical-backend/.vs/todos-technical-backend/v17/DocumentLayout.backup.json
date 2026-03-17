@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6474EDCF-A60D-4297-91FC-62CE49566DB6}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6474EDCF-A60D-4297-91FC-62CE49566DB6}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\todos-technical-backend\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|solutionrelative:todos-technical-backend\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\todos-technical-backend\\buildextensions\\corsinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|solutionrelative:todos-technical-backend\\buildextensions\\corsinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\todos-technical-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|solutionrelative:todos-technical-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\todos-technical-backend\\buildextensions\\servicesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|solutionrelative:todos-technical-backend\\buildextensions\\servicesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6474EDCF-A60D-4297-91FC-62CE49566DB6}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\dal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6474EDCF-A60D-4297-91FC-62CE49566DB6}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C566E-BA96-4509-8916-F493D3A76558}|Infrustructure\\Infrustructure.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\infrustructure\\dto\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C566E-BA96-4509-8916-F493D3A76558}|Infrustructure\\Infrustructure.csproj|solutionrelative:infrustructure\\dto\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F997B41-A214-4CE5-9FBE-EC58D739F584}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\bll\\services\\taskitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F997B41-A214-4CE5-9FBE-EC58D739F584}|BLL\\BLL.csproj|solutionrelative:bll\\services\\taskitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F997B41-A214-4CE5-9FBE-EC58D739F584}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\bll\\services\\itaskitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F997B41-A214-4CE5-9FBE-EC58D739F584}|BLL\\BLL.csproj|solutionrelative:bll\\services\\itaskitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\todos-technical-backend\\todos-technical-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79619716-5B4D-496F-A4D8-94440AF9DAAB}|todos-technical-backend\\todos-technical-backend.csproj|solutionrelative:todos-technical-backend\\todos-technical-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEB7598-D0F7-4306-99B1-DAB04F84D1AF}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEB7598-D0F7-4306-99B1-DAB04F84D1AF}|Core\\Core.csproj|solutionrelative:core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6474EDCF-A60D-4297-91FC-62CE49566DB6}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\todos-technical-backend\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6474EDCF-A60D-4297-91FC-62CE49566DB6}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\Controllers\\TaskItemsController.cs",
+              "RelativeDocumentMoniker": "todos-technical-backend\\Controllers\\TaskItemsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\Controllers\\TaskItemsController.cs",
+              "RelativeToolTip": "todos-technical-backend\\Controllers\\TaskItemsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:42:23.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CorsInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\BuildExtensions\\CorsInjection.cs",
+              "RelativeDocumentMoniker": "todos-technical-backend\\BuildExtensions\\CorsInjection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\BuildExtensions\\CorsInjection.cs",
+              "RelativeToolTip": "todos-technical-backend\\BuildExtensions\\CorsInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:32:40.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\Program.cs",
+              "RelativeDocumentMoniker": "todos-technical-backend\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\Program.cs",
+              "RelativeToolTip": "todos-technical-backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:30:02.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicesInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\BuildExtensions\\ServicesInjection.cs",
+              "RelativeDocumentMoniker": "todos-technical-backend\\BuildExtensions\\ServicesInjection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\BuildExtensions\\ServicesInjection.cs",
+              "RelativeToolTip": "todos-technical-backend\\BuildExtensions\\ServicesInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:27:47.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\BLL\\Services\\TaskItemsService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\TaskItemsService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\BLL\\Services\\TaskItemsService.cs",
+              "RelativeToolTip": "BLL\\Services\\TaskItemsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:24:46.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\DAL\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\DAL\\Repository\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repository\\Repository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:17:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\DAL\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\DAL\\Repository\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:13:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\Infrustructure\\Dto\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "Infrustructure\\Dto\\CreateTaskDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\Infrustructure\\Dto\\CreateTaskDto.cs",
+              "RelativeToolTip": "Infrustructure\\Dto\\CreateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:46:39.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\BLL\\Services\\ITaskItemsService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ITaskItemsService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\BLL\\Services\\ITaskItemsService.cs",
+              "RelativeToolTip": "BLL\\Services\\ITaskItemsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:23:31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "todos-technical-backend",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\todos-technical-backend.csproj",
+              "RelativeDocumentMoniker": "todos-technical-backend\\todos-technical-backend.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\todos-technical-backend\\todos-technical-backend.csproj",
+              "RelativeToolTip": "todos-technical-backend\\todos-technical-backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T11:27:26.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T11:13:13.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\Core\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\todos-technical-backend\\Core\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Core\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:10:52.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
