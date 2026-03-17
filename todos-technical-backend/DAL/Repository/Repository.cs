@@ -29,7 +29,6 @@ namespace DAL.Repository
 
         public async Task<TaskItem> CheckItem(string id)
         {
-            Console.WriteLine("ITEMS: " + JsonSerializer.Serialize(_items));
             var oldItem = _items.Where(item => item.Id == id).FirstOrDefault();
             
             if (oldItem is null)

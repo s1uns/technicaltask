@@ -12,6 +12,7 @@ export default function TaskInput({ setItems }: TaskInputProps) {
 	const [value, setValue] = useState("");
 	const [disabled, setDisabled] = useState(false);
 	const addItem = async () => {
+		if (!value) return;
 		setDisabled(true);
 		const newItem: TodoItem = await createTask({ text: value });
 		setDisabled(false);
